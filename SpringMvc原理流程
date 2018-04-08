@@ -1,0 +1,6 @@
+前端控制器DispatcherServlet
+视图解析器ViewReslover
+处理器映射器HandlerMapping
+处理器适配器HandlerAdapter
+
+线程池技术:executor
